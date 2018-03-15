@@ -1,0 +1,14 @@
+To see verification of the courses: https://www.youracclaim.com/user/victoria-eshelby
+
+
+--Tensor Flow--
+TensorFlowM1 = Module 1:
+	Activation Function, Linear Regression, Logistic Regression, "tensorflow Hello World"
+TensorFlowM2 = Module 2
+	Convolutional neural networks, Convolution Images, Understanding convolutions
+TensorFlowM3 = Module 3
+	LSTM Basics, Applying RNN LSTM's to Char/Language Models, Sequence classifcation using LSTM
+TensorFlowM4 = Module 4
+	RBM,Collaborative Filtering RBM
+TensorFlowM5 = Module 5
+	Using utlitiy functions, DBNMnist, AutoEncoders

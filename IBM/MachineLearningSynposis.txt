@@ -1,0 +1,14 @@
+To see verification of the courses: https://www.youracclaim.com/user/victoria-eshelby
+
+
+--Machine Learning--
+MachineLearningM1 = Module 1:
+	Supervised Learning Classification using "Skulls Dataset"
+MachineLearningM2 = Module 2
+	Decision Trees, K Nearest Neigbours, Random Forests
+MachineLearningM3 = Module 3
+	Linear Regression, Regression Analysis, Regression Evaluation Metric
+MachineLearningM4 = Module 4
+	Density-based clustering, K Means Clustering, Heirachical clustering
+MachineLearningM5 = Module 5
+	Collaborative filtering, Dimensionality reduction, Support vector regression

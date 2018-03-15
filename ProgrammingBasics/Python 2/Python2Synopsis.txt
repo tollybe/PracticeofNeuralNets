@@ -1,0 +1,22 @@
+Note: AIBattlebots AND Lunar has whole file included including pictures and can be run on a virtual IDE. 
+
+AIBattleBots
+	Aim = Create two AI sprites that combat one another and trying of the different types of path finding
+CardGame 
+	Aim = Create a player versus AI in a game of 
+
+Hangman 
+	Aim = Creates a hangman game
+
+Temperature converter 
+	Includes "My first GUI"
+	Aim = converts between Celcius and Fahrenheit using a GUI
+
+Virtual Pet
+	Aim = Creates a basic " tamagotchi simulation"
+
+Keyboard Speed typer
+	Aim = Times speed at which you type words/phrases
+
+Lunar 
+	Aim = Creates a simple 'moon-landing' simulation. 

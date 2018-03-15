@@ -1,0 +1,3 @@
+Book resource: neuralnetworksanddeeplearning.com/chap1.html
+
+Outlines the code used in various chapters ("Practice"), and shows the changes/ developments in later chapters (Convolutional_network, changesfromc1toc3). 

@@ -1,0 +1,13 @@
+Resource: Hello World - Python for beginners
+
+Outlines the various tasks within the book:
+
+practice1
+	- outlines smaller tasks involved in the book
+
+Pong
+	- Aim = creates a game of basic Pong that increases speed dependent on points 
+
+Skier-Basic
+	- Aim = a simpler version of Ski-Free
+
